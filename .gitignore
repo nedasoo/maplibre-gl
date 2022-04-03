@@ -18,7 +18,6 @@ test/integration/**/test-results.xml
 test/integration/dist/**/*.js
 test/integration/dist/**/*.json
 test/integration/query/dist/fixtures.json
-*/**/*.g.ts
 .eslintcache
 _batfish_site
 _batfish_tmp
